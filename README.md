@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-✨ README ✨ 
-
-Here are some information about me:
+✨Here are some information about me✨ :
 
 - 🔭 I’m currently working on ShangHai.
-- 🌱 I’m currently learning some skills.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🌱 AI enthusiasts, and lifelong learner ...
+- 👯 I’m looking for like-minded friends.
+- 🤔 https://aimuch.com
+- 💬 [Twitter](https://twitter.com/aisoez)
+- 📫 [E-mail](aimuch@outlook.com)
+- 😄 Good good study, day day up!
+- ⚡  Vision is my mission!
