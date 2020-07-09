@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-**aimuch/aimuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ README ✨ 
 
-Here are some ideas to get you started:
+Here are some information about me:
 
-- 🔭 I’m currently working on ShangHai
-- 🌱 I’m currently learning CUDA
+- 🔭 I’m currently working on ShangHai.
+- 🌱 I’m currently learning some skills.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
