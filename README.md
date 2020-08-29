@@ -13,4 +13,4 @@
 - 📫 [E-mail](aimuch@outlook.com)
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aimuch)](https://github.com/aimuch/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=aimuch&count_private=true&show_icons=true)
