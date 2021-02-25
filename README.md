@@ -1,4 +1,3 @@
-![8405597455_8152 _2_.jpg](https://i.loli.net/2020/07/24/ksC1jhclmJxvWzr.jpg)
 ### Hi here 👋
 
 ✨Here are some information about me✨ :
