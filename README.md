@@ -21,9 +21,10 @@
 
 ### Popular projects
 
-- 🧠  DeepLearning: [iAi](https://github.com/aimuch/iAi). [AiTools](https://github.com/aimuch/AiTools)
+- 🧬  DeepLearning: [iAi](https://github.com/aimuch/iAi). [AiTools](https://github.com/aimuch/AiTools)
 - 🚀  Performance: [iMac](https://github.com/aimuch/iMac)
-- 🎨  Image: [iCV](https://github.com/aimuch/iCV/)
+- 📐  Vision: [iCV](https://github.com/aimuch/iCV)
+- 🚗  Auto: [Auto](https://github.com/aimuch/Auto)
 
 #### Stats
 
