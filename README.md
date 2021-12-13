@@ -15,9 +15,9 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
 ![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 
 ### Popular projects
 
