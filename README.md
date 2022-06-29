@@ -43,13 +43,19 @@
 #### Find me
 
 <p>
+  <a href="Airapt">
+    <img alt="WeChat" src="https://img.shields.io/badge/Airapt-%231DA1F2.svg?&style=flat&logo=wechat&logoColor=green" />
+  </a>
+  <a href="QQ">
+    <img alt="QQ" src="https://img.shields.io/badge/1521593344-%231DA1F2.svg?&style=flat&logo=tencentqq&logoColor=black" />
+  </a>
   <a href="mailto:liuvay@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=flat&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://github.com/aimuch">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" />
   </a>
   <a href="https://twitter.com/itsoez">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
