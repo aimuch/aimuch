@@ -3,7 +3,7 @@
 ✨Here are some information about me✨ :
 
 - 🚗 I’m currently engaged in software development in the automotive industry in ShangHai.
-- 🧬 **AI** enthusiasts, and lifelong learner ...
+- 🧬 **AI** Dev, and lifelong learner ...
 - 🤣 Good good study, day day up!💪
 - 📐 Vision is my mission!
 <!---
