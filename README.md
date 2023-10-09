@@ -20,7 +20,7 @@
 
 ### Popular projects
 
-- 🧬  AI: [iAi](https://github.com/aimuch/iAi). [AiTools](https://github.com/aimuch/AiTools)
+- 🧬  AI: [iAi](https://github.com/aimuch/iAi), [multitask](https://github.com/aimuch/multitask), [AiTools](https://github.com/aimuch/AiTools)
 - 🚀  Performance: [iMac](https://github.com/aimuch/iMac)
 - 📐  Vision: [iCV](https://github.com/aimuch/iCV)
 - 🚗  Auto: [Auto](https://github.com/aimuch/Auto)
