@@ -54,7 +54,7 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=flat&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://github.com/aimuch">
-    <img alt="Github" src="https://img.shields.io/badge/aimuch%2312100E.svg?&style=flat&logo=Github&logoColor=white" />
+    <img alt="Github" src="https://img.shields.io/badge/aimuch-%2312100E.svg?&style=flat&logo=Github&logoColor=white" />
   </a>
   <a href="https://twitter.com/aimgpt">
     <img alt="Twitter" src="https://img.shields.io/badge/aimgpt-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />
