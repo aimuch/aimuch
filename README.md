@@ -44,12 +44,6 @@
 #### Find me
 
 <p>
-  <a href="aimdev">
-    <img alt="WeChat" src="https://img.shields.io/badge/aimdev-%231DA1F2.svg?&style=flat&logo=wechat&logoColor=green" />
-  </a>
-  <a href="QQ">
-    <img alt="QQ" src="https://img.shields.io/badge/1521593344-%231DA1F2.svg?&style=flat&logo=tencentqq&logoColor=black" />
-  </a>
   <a href="mailto:liuvay@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=flat&logo=Gmail&logoColor=white" />
   </a>
